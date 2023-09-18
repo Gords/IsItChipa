@@ -4,6 +4,8 @@
 
 This project aims to solve an essential question: Is it a Chipa? "Chipa" is a type of small bread-like baked good that's popular in Paraguay and other parts of South America. Using deep learning, this project classifies images as either "Chipa" or "Not Chipa."
 
+![Alt text](ChipaOrDonut.png)
+
 ## Features
 
 - Utilizes Convolutional Neural Networks (CNNs) for image classification.
